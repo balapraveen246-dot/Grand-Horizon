@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outer Gold Diamond Shield -->
+  <path d="M32 4L60 32L32 60L4 32L32 4Z" stroke="#C59733" stroke-width="2" fill="#070D1E" />
+  <!-- Inner Ring Accent -->
+  <circle cx="32" cy="32" r="22" stroke="#C59733" stroke-width="1.2" stroke-dasharray="2 2" />
+  <!-- Monogram G & H in serif styling -->
+  <path d="M26 24C24 24 21 26 21 32C21 38 24 40 27 40C29.5 40 31 38.5 31.5 37H27.5V34H34V42C32 43.5 29.5 44 26.5 44C21 44 17 39.5 17 32C17 24.5 21.5 20 27 20C29.8 20 32 21 33.5 22.5L31.5 25C30.2 24.2 28.5 24 26 24Z" fill="#C59733" />
+  <path d="M36 21H40V29.5H45V21H49V43H45V33.5H40V43H36V21Z" fill="#C59733" />
+  <!-- Top Sparkle Star -->
+  <path d="M32 8L33.5 12L37.5 13.5L33.5 15L32 19L30.5 15L26.5 13.5L30.5 12L32 8Z" fill="#D8B056" />
+</svg>
